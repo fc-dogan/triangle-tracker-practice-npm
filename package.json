@@ -18,6 +18,6 @@
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
     "jest": "^24.9.0",
     "webpack": "4.39.3",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^3.3.12"
   }
 }
